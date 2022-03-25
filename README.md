@@ -1,6 +1,6 @@
-# colorsland
+# Flutter Layouts Basics
 
-A new Flutter project.
+This repo contains necessary code files to remember and practice with Flutter Layouts on the go. (lib -> main.dart)
 
 ## Getting Started
 
